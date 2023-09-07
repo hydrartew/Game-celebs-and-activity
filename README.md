@@ -17,8 +17,8 @@
 
 ### Пользовательский интерфейс
 
-<img src="DOCS/селебс.gif" width="20%" height="420" alt="/start"/>
-<img src="DOCS/активити.gif" width="20%" height="420" alt="admin_chat"/>
+<img src="DOCS/селебс.gif" width="25%" height="420" alt="/start"/> <img src="DOCS/активити.gif" width="25%" height="420" alt="admin_chat"/>
+
 
 # Установка
 
